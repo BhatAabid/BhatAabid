@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhatAabid
 - 👀 I’m interested in Data Science roles.
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently looking for job role in data science 
 - 💞️ I’m looking to collaborate on projects on Machine Learning
 - 📫 How to reach me by email abidhee@gmail.com
 - 😄 Pronouns: he/him
